@@ -1,5 +1,10 @@
 Lerne in 10 Minuten, wie du from scratch einen minimalen REST Service baust und erstelle dabei einen Spring Boot `@RestController`.
 
+<video width="100%" poster="https://springacademy.fra1.digitaloceanspaces.com/rest-controller/rest-controller-hb.jpg" controls="">
+    <source src="https://springacademy.fra1.digitaloceanspaces.com/rest-controller/rest-controller-hb.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+</video>
+
 ## Der minimale REST Controller
 
 Die zentralle Java Klasse eines REST Webservices in Spring Boot ist der sogenannte **REST Controller**. Er nimmt die HTTP Anfragen entgegen und verarbeitet sie.
